@@ -9986,7 +9986,7 @@ body {
 .cid-qIpQ5Eh7O4 {
   padding-top: 120px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/27545487-1660636843958333-1357217737057807468-n-960x64023.jpg");
+  background-image: url("../../../assets/images/27545487-1660636843958333-1357217737057807468-n-960x64027.jpg");
 }
 .cid-qIpQ5Eh7O4 H2 {
   color: #ffffff;
@@ -10002,8 +10002,70 @@ body {
 .cid-qIpQ5Eh7O4 .mbr-section-subtitle DIV {
   color: #ffffff;
 }
+.cid-qMIPG1q20j {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-qMIPG1q20j .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qMIPG1q20j .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qMIPG1q20j .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qMIPG1q20j .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qMIPG1q20j .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #000205) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qMIPG1q20j .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qMIPG1q20j .mbr-gallery-item > div:hover:before {
+  opacity: 0.8 !important;
+}
+.cid-qMIPG1q20j .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qMIPG1q20j .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #000205) !important;
+  opacity: 0.8;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
 .cid-qM4wW8N42U {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -10046,7 +10108,7 @@ body {
   color: #767676;
 }
 .cid-qJjZrLWAPQ {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #073b4c;
 }
@@ -10060,7 +10122,7 @@ body {
 }
 .cid-qJk07FQbBR {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
   background-color: #073b4c;
 }
 .cid-qJk07FQbBR .counter-container {
