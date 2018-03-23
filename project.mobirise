@@ -859,7 +859,7 @@
                 "contentAlign": "center",
                 "text": "We meet every Sunday for service at 7:30am, 9:00am, &amp; 11:30am",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-                "overlayOpacity": "0.3"
+                "overlayOpacity": "0.1"
               }
             ]
           }
